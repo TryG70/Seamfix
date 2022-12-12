@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: bvn-validation
+      uri: mongodb+srv://Tryg70:879470@trygod.60nda9n.mongodb.net/?retryWrites=true&w=majority
