@@ -19,10 +19,10 @@ You need the following to build and run the application:
 - [Maven 3.8.6](https://maven.apache.org) (This is the build tool used.)
 
 ## How to run Application(s)
-### step 1 - clone project with Terminal from [here](https://gitlab.com/TryG70/MusalaSoft-DroneService)
+### step 1 - clone project with Terminal from [here](git@github.com:TryG70/Seamfix.git)
 
 ```
-git clone git@github.com:TryG70/MusalaSoft-DroneService.git
+git clone git@github.com:TryG70/Seamfix.git
 ```
 
 ### step 2 - move into the project directory
@@ -49,7 +49,7 @@ OR
 
 
 ## PostMan Collection for Integration Tests.
-- Musala-Soft Drone-Service [here](https://api.postman.com/collections/22955162-fb9f2b60-07ec-4f00-aa32-aefd7227aebd?access_key=PMAT-01GM2YMXAX1AES3HQRHKQVPQ1X)
+- Seamfix Bvn Validation [here](https://api.postman.com/collections/22955162-fb9f2b60-07ec-4f00-aa32-aefd7227aebd?access_key=PMAT-01GM2YMXAX1AES3HQRHKQVPQ1X)
 
 
 ## Running The Tests with Maven
